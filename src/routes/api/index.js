@@ -64,7 +64,6 @@ router.post("/workouts", async (req, res) => {
       // Handle Error
       if (err) throw err;
       // Return response data
-      console.log(data);
       res.status(200).send(data);
     });
   } catch (err) {
@@ -82,12 +81,10 @@ router.put("/workouts/:id", async (req, res) => {
         // Handle Error
         if (err) throw err;
         // Return Response Data
-        console.log(data);
         res.status(200).send(data);
       }
     );
   } catch (err) {
-    console.log(err);
     res.status(500).send(err);
   }
 });
