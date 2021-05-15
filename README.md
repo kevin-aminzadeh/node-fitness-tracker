@@ -6,7 +6,6 @@
 <p align="center">
 
   <p align="center">
-    <br />
     <a href="https://fitness-tracker-4.herokuapp.com/">View Live Demo</a>
   </p>
 </p>
