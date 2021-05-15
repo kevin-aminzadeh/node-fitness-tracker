@@ -1,7 +1,7 @@
 # Fitness Tracker ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <p align="center">
-  <img src="./public/assets/img/demo.gif" alt="MongoDB Fitness Tracker">
+  <img src="./assets/img/demo.gif" alt="MongoDB Fitness Tracker">
 </p>
 <p align="center">
 
