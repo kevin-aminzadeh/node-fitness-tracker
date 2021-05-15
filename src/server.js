@@ -21,7 +21,7 @@ mongoose.connect(
 const app = express();
 
 // Configure Express Server Port
-const PORT = process.env.port || 3000;
+const PORT = process.env.PORT || 3000;
 
 // Configure URL Encoded Data Parsing Middleware
 app.use(express.urlencoded({ extended: true }));
